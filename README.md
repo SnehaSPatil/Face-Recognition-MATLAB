@@ -1,0 +1,2 @@
+# Face-Recognition-MATLAB
+The face images are projected onto a feature space that spans the significant variations among known face images. The significant features are known as “eigenfaces”. In mathematical terms, we wish to find the principal components of the distribution of faces, or the eigenvectors of the covariance matrix of the set of face images, treating an image as a point in a very high dimensional space.
